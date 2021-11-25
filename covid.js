@@ -90,7 +90,7 @@ const newspapers = [
 	{
 		name: 'ut',
 		address: 'https://eu.usatoday.com/news/coronavirus/',
-		base: '',
+		base: 'https://eu.usatoday.com',
 	},
 ];
 
